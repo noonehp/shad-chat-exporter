@@ -1,0 +1,23 @@
+﻿# Private chat data / exports (DO NOT COMMIT)
+New folder/
+*.mhtml
+*.png
+*.jpg
+*.jpeg
+shad_chat*.json
+shad_chat*.csv
+shad_chat*.html
+shad_raw.json
+decoded.html
+snippet*.txt
+inspect*.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+Thumbs.db
+.DS_Store
